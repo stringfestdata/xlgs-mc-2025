@@ -1,8 +1,0 @@
-channels:
-  - conda-forge
-dependencies:
-  - openpyxl 
-  - pandas
-  - seaborn
-  - matplotlib
-  - numpy
